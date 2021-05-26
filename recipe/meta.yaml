@@ -45,7 +45,7 @@ test:
 
 about:
   home: https://CRAN.R-project.org/package=parcor
-  license: GPL (>= 2)
+  license: GPL-2.0-or-later
   summary: 'The package estimates the matrix of partial correlations based on different regularized
     regression methods: lasso, adaptive lasso, PLS, and Ridge Regression. In addition,
     the package provides model selection for lasso, adaptive lasso and Ridge regression
@@ -56,11 +56,6 @@ about:
 extra:
   recipe-maintainers:
     - conda-forge/r
-    - bgruening
-    - daler
-    - jdblischak
-    - cbrueffer
-    - dbast
 
 # Package: parcor
 # Type: Package
